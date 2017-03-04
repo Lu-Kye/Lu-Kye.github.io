@@ -2,7 +2,7 @@
 layout: post
 title: project settings
 subtitle: 
-date: 2017-03-04 03-Mar-42
+date: 2017-03-04 04-Mar-12
 author: Lu-Kye
 header-img: img/post-bg.jpg
 catelog: true
