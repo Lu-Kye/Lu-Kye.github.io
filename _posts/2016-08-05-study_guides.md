@@ -2,7 +2,7 @@
 layout: post
 title: study_guides
 subtitle: 
-date: 2017-03-04 04-Mar-54
+date: 2017-03-04 04-Mar-00
 author: Lu-Kye
 header-img: img/post-bg.jpg
 catelog: true
