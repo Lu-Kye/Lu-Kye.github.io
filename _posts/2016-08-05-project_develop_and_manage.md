@@ -2,7 +2,7 @@
 layout: post
 title: project_develop_and_manage
 subtitle: 
-date: 2017-03-04 03-Mar-49
+date: 2017-03-04 03-Mar-42
 author: Lu-Kye
 header-img: img/post-bg.jpg
 catelog: true
