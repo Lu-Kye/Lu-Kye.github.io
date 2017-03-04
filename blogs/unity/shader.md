@@ -4,9 +4,10 @@ target 2.0(Direct3D Shader Model 2.0) textures max num 7
 target 3.0(Direct3D Shader Model 3.0) textures max num > 7
 ```
 
-## Unity内置cg功能 Unity/Editor/Data/CGIncludes目录 (如UnityCG.cginc、Lighting.cginc...)
+## Unity internal cg functions
+Unity/Editor/Data/CGIncludes(UnityCG.cginc、Lighting.cginc...)
 
-## 内置structures
+## Unity internal structs 
 ```
 struct appdata_base {
 	float4 vertex : POSITION;
