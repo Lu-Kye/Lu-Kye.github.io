@@ -10,4 +10,4 @@ permalink: /about/
 * Dream to be an engineer.
 
 ### Contact me
-[lujian0517@163.com](mailto:lujian0517@163.com)
+[lujian0517@gmail.com](mailto:lujian0517@gmail.com)
