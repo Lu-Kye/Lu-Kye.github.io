@@ -1,0 +1,6 @@
+|en 	|cn 	|example
+|---	|---	|---
+|wildcard	|通配符	  |*.txt, *.lua, *.cpp
+|explicitly |明确的，显示的 | Int i = 1; int j = (int)i;
+|implicit   |隐式的	  |	Int i = 1; int j = i;
+|precision  |精度	  | float, double, .etc

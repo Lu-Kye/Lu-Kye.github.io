@@ -1,0 +1,29 @@
+## Shortcuts
+    ctrl + shift + space 大师模式切换
+    x 吸附网格
+    c 吸附边
+    v 吸附点
+
+### UV Texture Editor
+    shift + right click -> smooth/unfolder 展开uv
+
+## Light
+    Area Light Attributes/Decay Rate 光的衰减
+    Area Light Attributes/Emit Specular 是否render高光
+
+## Mental Ray
+    Passes 条件使用mental ray材质球
+
+## 分层渲染
+    shadow
+     *地面添加 use background材质球
+     *物体Primary Visible 关闭
+
+## Display
+    Heads Up Display Current Frame
+
+## Render
+    IPR 
+    实时渲染 修改参数后可以直接看到效果
+    Runtime rendering, preview result when anything changed     
+
