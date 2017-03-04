@@ -49,7 +49,7 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: lukyeblog 
+#disqus_username: lukyeblog 
 
 # 评论箱 settings
 plx_key: c810aa17655f7666
