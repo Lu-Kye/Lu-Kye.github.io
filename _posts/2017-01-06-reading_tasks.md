@@ -2,9 +2,9 @@
 layout: post
 title: reading_tasks
 subtitle: 
-date: 2017-03-04 02-Mar-43
+date: 2017-03-04 03-Mar-53
 author: Lu-Kye
-header-img: img/tasks/reading_tasks
+header-img: img/post-bg.jpg
 catelog: true
 tags: 
   - tasks
